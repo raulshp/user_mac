@@ -51,6 +51,7 @@ FAF3A67F-780C-E716-02F9-D68F843AB477 Bambino |_|24/08/2023| Agosto
 72D14F79-1EFD-49E6-83AB-D45D64D63539 Mariano |-|27/08/2023|Agosto
 D72B6C72-77BA-E911-80D2-08979873A12F Maquina |_|28/08/2023|Agosto
 EB07240F-812B-A240-AF47-94EDADB78E21 BussMen |_|28/08/2023|Agosto
+ED903425-8D6C-11EC-80F1-88A4C2AC8F4B AmigaGordoSuwa |_|29/08/2023|Agosto
 ========================= SEPTEMBER =========================
 18BC9511-211A-7F14-2650-50EBF6CEAFD8 RossHacking |-|02/09/2023|Agosto
 --------------------------------------- SIN RESTRICCION ----------------------------
